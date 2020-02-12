@@ -1,18 +1,17 @@
 # Pertemuan ke-2 Praktikum Teknologi Cloud
 
+---
 
 ## Perbedaan dari IaaS, PaaS, dan SaaS
 
----
+- ### IaaS (Infrastructure as a Service)
+adalah sebuah layanan yang disediakan oleh perusahaan, grup, komunitas, ataupun pemerintah yang memungkinkan pengguna untuk mendapatkan kendali penuh terhadap infrastruktur yang digunakan, jaringan komputer dasar, jaringan pengiriman konten, routing, penyimpatan data komoditas, dan hosting sistem operasi tervisualisasi.
 
-### IaaS (Infrastructure as a Service)
-adalah sebuah layanan yang disediakan oleh perusahaan, grup, komunitas, ataupun pemerintah yang memungkinkan pengguna untuk mendapatkan kendali penuh terhadap infrastruktur yang digunakan, jaringan komputer dasar, jaringan pengiriman konten, routing, penyimpatan data komoditas, dan hosting sistem operasi tervisualisasi
+- ### PaaS (Platform as a Service)
+adalah sebuah layanan yang disediakan oleh perusahaan, grup, komunitas, ataupun pemerintah yang menyediakan layanan berupa framework / platform yang digunakan untuk pengembangan perangkat lunak.
 
-### PaaS (Platform as a Service)
-adalah sebuah layanan yang disediakan oleh perusahaan, grup, komunitas, ataupun pemerintah yang menyediakan layanan berupa framework / platform yang digunakan untuk pengembangan perangkat lunak
-
-### SaaS (Software as a Service)
-adalah sebuah layanan yang disediakan oleh perusahaan, grup, komoditas, ataupun pemerintah yang memungkinkan pengguna untuk dapat tetap menggunakan suatu software dan dengan device apapun melalui koneksi internet
+- ### SaaS (Software as a Service)
+adalah sebuah layanan yang disediakan oleh perusahaan, grup, komoditas, ataupun pemerintah yang memungkinkan pengguna untuk dapat tetap menggunakan suatu software dan dengan device apapun melalui koneksi internet.
 
 ---
 
