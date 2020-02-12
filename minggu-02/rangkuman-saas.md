@@ -22,9 +22,11 @@ Dengan menggunakan model tersebut, arsitektur pada SaaS ini memungkinkan layanan
 Alasan menggunakan Arsitektur SaaS
 
 - Dari Pendapat Konsumen
+
 Produk SaaS ini merupakan salah satu cara termudah untuk menggunakan layanan atau produk digital dimana pengguna hanya cukup mengaksesnya melalui web, membayar layanan tersebut, dan lalu menggunakannya.
 
 - Dari Pendapat Perusahaan
+
 Produk SaaS ini membantu mereka dalam mengiklankan produk perusahaan mereka ke pasar dunia dan juga memungkinkan mereka untuk mempertahankan kontrol keseluruhan atas produk tersebut, selain itu juga membantu dalam mengurangi jangka waktu bagi produk untuk mencapai pasar, mengurangi biaya perawatan produk, memudahkan pembaruan produk, dan lain - lain.
 
 ---
