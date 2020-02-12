@@ -3,6 +3,8 @@
 
 ## Perbedaan dari IaaS, PaaS, dan SaaS
 
+---
+
 ### IaaS (Infrastructure as a Service)
 adalah sebuah layanan yang disediakan oleh perusahaan, grup, komunitas, ataupun pemerintah yang memungkinkan pengguna untuk mendapatkan kendali penuh terhadap infrastruktur yang digunakan, jaringan komputer dasar, jaringan pengiriman konten, routing, penyimpatan data komoditas, dan hosting sistem operasi tervisualisasi
 
@@ -12,7 +14,7 @@ adalah sebuah layanan yang disediakan oleh perusahaan, grup, komunitas, ataupun 
 ### SaaS (Software as a Service)
 adalah sebuah layanan yang disediakan oleh perusahaan, grup, komoditas, ataupun pemerintah yang memungkinkan pengguna untuk dapat tetap menggunakan suatu software dan dengan device apapun melalui koneksi internet
 
-
+---
 
 ## Arsitektur Platform SaaS
 
@@ -26,7 +28,7 @@ Produk SaaS ini merupakan salah satu cara termudah untuk menggunakan layanan ata
 - Dari Pendapat Perusahaan
 Produk SaaS ini membantu mereka dalam mengiklankan produk perusahaan mereka ke pasar dunia dan juga memungkinkan mereka untuk mempertahankan kontrol keseluruhan atas produk tersebut, selain itu juga membantu dalam mengurangi jangka waktu bagi produk untuk mencapai pasar, mengurangi biaya perawatan produk, memudahkan pembaruan produk, dan lain - lain.
 
-
+---
 
 ## Bagaimana cara membangun sebuah Aplikasi SaaS berbasis Cloud
 
