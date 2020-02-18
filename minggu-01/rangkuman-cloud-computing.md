@@ -44,8 +44,6 @@ Platform adalah lingkungan software yang digunakan untuk mengembangkan dan menja
 
 Infrastuktur sebagai sebuah layanan adalah provider Cloud menyediakan infrastuktur online yang memungkinkan pelanggan untuk menyimpan data, mengembangkan dan menjalankan aplikasi sesuai dengan yang mereka harapkan. Pengguna IaaS mungkin dapat menyewa sumber daya seperti: Ruang Server, peralatan jaringan, memori, CPU dan Storage. Contohnya aplikasi-aplikasi pada Microsoft Office yang berjalan pada platform Microsoft Windows, dan Microsoft Windows berjalan pada infrastuktur dari IBM PC yang kompatibel.
 
-Selain dari sisi jenis layanan, ada pula pembagian Cloud Computing berdasarkan jangkauan layanannya. Berdasarkan jangkauan layanan terbagi menjadi 3, diantaranya: Public Cloud, Private Cloud dan Hybrid Cloud.
-
 ---
 
 ## Manfaat
