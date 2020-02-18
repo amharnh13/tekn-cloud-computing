@@ -3,6 +3,7 @@
 untuk langkah - langkah instalasinya yaitu sebagai berikut:
 
 1. Pastikan anda sudah memiliki file git yang siap untuk di install. Bila belum memiliki file tersebut, bisa dengan mendownload [disini](https://git-scm.com/downloads)
+
 ![1](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-01/instalasi/1.png)
 
 2. Lakukan langkah - langkah seperti pada gambar di bawah :
