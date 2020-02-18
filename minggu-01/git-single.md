@@ -45,3 +45,34 @@ Bila proses pembuatan Repo berhasil, maka akan menampilkan
 
 ![Repo done](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-01/repository/2.png)
 
+selanjutnya kita melakukan manipulasi file markdown dari komputer local
+
+1. Pertama kita lakukan proses clone isi dari repository kita yang ada di GitHub dengan mengetikan perintah
+
+![Clone](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-01/repository/3.png)
+
+setelah proses clone selesai, maka folder dari repo github kita akan tersimpan pada lokasi berikut
+
+![Repo Lokal](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-01/repository/4.png)
+
+2. lalu selanjutnya kita bisa membuat file .md atau markdown dengan menggunakan perintah vim, dan untuk melihat isi dari file tersebut bisa dengan menggunakan perintah cat
+
+![Vim Cat](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-01/repository/5.png)
+
+3. Selanjutnya kita gunakan perintah git add untuk menambahkan file yang kita modifikasi ke antrian yang nantinya akan kita commit
+
+![Add](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-01/repository/6.png)
+
+4. Pada langkah ini, kita menggunakan perintah git commit yang digunakan untuk menyimpan perubahan pada file yang telah di add sebelumnya dengan disertakan log aktivitas
+
+![Commit](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-01/repository/7.png)
+
+5. Setelah proses add dan commit telah dilakukan, hal selanjutnya yang dilakukan yaitu kita melakukan proses push file dan folder pada repo lokal tersebut ke repo github dengan menggunakan perintah git push
+
+![Push](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-01/repository/10.png)
+
+6. Setelah proses push telah selesai, kalian bisa mengeceknya pada repo github milik kalian masing - masing
+
+![Hasil](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-01/repository/11.png)
+
+![Hasil](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-01/repository/12.png)
