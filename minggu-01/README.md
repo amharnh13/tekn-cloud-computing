@@ -1,7 +1,9 @@
 # Pertemuan ke-1      Praktikum Teknologi Cloud
 
-Pada pertemuan pertama ini kita belajar tentang instalasi GIT pada komputer dan juga dilakukan konfigurasi GIT tersebut
+Berikut merupakan link untuk menuju ke file :
 
-Setelah itu kita belajar tentang cara memanipulasi file .md atau file markdown tentang cara penulisannya
+1. Latihan 1 (git-single.md) -> ![git-single](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-01/git-single.md)
 
-Serta tentang cara melakukan Clone dari Git ke local computer setelah itu baru kita melakukan edit file markdown, kemudian melakukan git add -> commit -> kemudian kita melakukan push ke git
+2. Latihan 2 (rangkuman-cloud-computing.md) -> ![rangkuman-cloud-computing](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-01/rangkuman-cloud-computing.md)
+
+3. Tugas 1 (git-kolaborasi.md) -> ![rangkuman-cloud-computing](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-01/git-kolaborasi.md)
