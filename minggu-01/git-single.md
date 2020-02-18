@@ -1,6 +1,6 @@
 ## Pada pertemuan pertama ini kita belajar tentang instalasi Git pada komputer dan juga dilakukan konfigurasi Git tersebut, setelah itu kita belajar tentang cara memanipulasi repository yang akan kita gunakan pada Git
 
-untuk langkah - langkah instalasinya yaitu sebagai berikut:
+### Untuk langkah - langkah instalasinya yaitu sebagai berikut:
 
 1. Pastikan anda sudah memiliki file git yang siap untuk di install. Bila belum memiliki file tersebut, bisa dengan mendownload [disini](https://git-scm.com/downloads)
 
@@ -26,6 +26,22 @@ atau dengan mengetikan perintah "git version" di command prompt
 ![14](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-01/instalasi/14.png)
 
 
-Setelah itu kita belajar tentang cara memanipulasi file .md atau file markdown tentang cara penulisannya
+### Setelah proses instalasi Git telah selesai, hal yang selanjutnya kita lakukan yaitu melakukan konfigurasi Git tersebut dengan menggunakan Git Bash, dan dengan cara sebagai berikut : 
 
-Serta tentang cara melakukan Clone dari Git ke local computer setelah itu baru kita melakukan edit file markdown, kemudian melakukan git add -> commit -> kemudian kita melakukan push ke git
+1. Ketikan perintah git config --global user.name "----" dan git config --global user.emal ---- (tanda ---- diisi dengan username dan email anda yang terdaftar di GitHub)
+
+2. Setelah proses pengetikan perintah tersebut selesai, kita bisa mengeceknya dengan melihat konfigurasi yang ada dengan perintah git config --list
+
+![konfigurasi](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-01/konfigurasi/2.png)
+
+
+### Kemudian hal yang dilakukan selanjutnya yaitu tentang cara memanipulasi file .md atau file markdown 
+
+Sebelumnya kita perlu membuat Repository terlebih dahulu di akun GitHub kita dengan cara
+
+![create Repo](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-01/repository/1.png)
+
+Bila proses pembuatan Repo berhasil, maka akan menampilkan
+
+![Repo done](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-01/repository/2.png)
+
