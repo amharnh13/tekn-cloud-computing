@@ -25,3 +25,15 @@
 - Pada tahap ini kita telah berhasil sepenuhnya mendaftarkan akun Heroku milik kita, dan sekarang ini kita telah berada di Dashboard Heroku
 ![7](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-03/Image/7.png)
 
+---
+
+2. Membuat Aplikasi dari Dashboard Heroku
+
+- Dari Dashboard Heroku, klik CREATE NEW APP
+![8](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-03/Image/8.png)
+
+- Selanjutnya kita isikan nama aplikasi dan form lain yang tersedia
+![9](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-03/Image/9.png)
+
+- Pada tahap ini, kita selesai membuat aplikasi dan langkah selanjutnya yaitu menjalankannya menggunakan Heroku CLI (Command Line Interface) pada Linux
+![10](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-03/Image/10.png)
