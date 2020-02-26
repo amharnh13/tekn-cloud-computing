@@ -37,3 +37,4 @@
 
 - Pada tahap ini, kita selesai membuat aplikasi dan langkah selanjutnya yaitu menjalankannya menggunakan Heroku CLI (Command Line Interface) pada Linux
 ![10](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-03/Image/10.png)
+
