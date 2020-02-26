@@ -17,7 +17,7 @@ adalah sebuah layanan yang disediakan oleh perusahaan, grup, komoditas, ataupun 
 
 ## Arsitektur Platform SaaS
 
-![Arsitektur SaaS](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-02/saas-arsitektur.png)
+![Arsitektur SaaS](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-02/Image/saas-arsitektur.png)
 
 Dengan menggunakan model tersebut, arsitektur pada SaaS ini memungkinkan layanan untuk dapat digunakan oleh banyak pengguna dan dari berbagai jenis device seperti pada gambar diatas (App Server, Mobiles, Networks, PC, Codes, dan Database), dikarenakan aplikasi ini diinstall pada banyak mesin untuk mendukung skalabilitas.
 
