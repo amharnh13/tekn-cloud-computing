@@ -31,8 +31,4 @@ Produk SaaS ini merupakan salah satu cara termudah untuk menggunakan layanan ata
 
 Produk SaaS ini membantu mereka dalam mengiklankan produk perusahaan mereka ke pasar dunia dan juga memungkinkan mereka untuk mempertahankan kontrol keseluruhan atas produk tersebut, selain itu juga membantu dalam mengurangi jangka waktu bagi produk untuk mencapai pasar, mengurangi biaya perawatan produk, memudahkan pembaruan produk, dan lain - lain.
 
----
-
-## Bagaimana cara membangun sebuah Aplikasi SaaS berbasis Cloud
-
 
