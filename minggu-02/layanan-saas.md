@@ -2,7 +2,7 @@
 
 Layanan SaaS 
 
-Layanan Software as a Service untuk membuat diagram ada berbagai macam, ada yang menyediakannya melalui cloud seperti https://draw.io, ataupun ada yang menyediakannya melalui desktop / non cloud seperti Microsoft Visio, Caligra Flow, dan juga Dia. 
+Layanan Software as a Service untuk membuat diagram ada berbagai macam, ada yang menyediakannya melalui cloud seperti [draw.io](https://draw.io), ataupun ada yang menyediakannya melalui desktop / non cloud seperti Microsoft Visio, Caligra Flow, dan juga Dia. 
 
 Selain layanan non - cloud tersebut, ada juga software - software penyedia lainnya, yaitu :
 
