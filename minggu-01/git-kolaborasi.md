@@ -36,3 +36,5 @@ Langkah - langkah kolaborasi upstream author dan kontributor
 ![15](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-01/kolaborasi/15.png)
 
 ![16](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-01/kolaborasi/16.png)
+
+![17](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-01/kolaborasi/17.png)
