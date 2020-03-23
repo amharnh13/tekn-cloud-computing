@@ -8,7 +8,7 @@ Selain layanan non - cloud tersebut, ada juga software - software penyedia lainn
 
 1. yEd – Graph Editor
 
-![yed-grapheditor](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-02/image/yed-grapheditor.png)
+![yed-grapheditor](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-02/Image/yed-grapheditor.png)
 
 yEd – Graph Editor adalah aplikasi untuk membuat flowchart yang sangat mudah digunakan. Aplikasi ini dapat membuat banyak flowchart sekaligus dan menyediakan banyak grafis dan juga kita dapat mewarnai dan menghubungkan shape-shape tadi. Diagram yang telah dibuat tersebut bisa diekspor ke dalam format SWF, SVG, PDF, HTML, PNG, dll. Terdapat juga pilihan structure view atau full screen view untuk dapat memudahkan kita dalam membuat diagram yang kita inginkan
 
@@ -17,7 +17,7 @@ Disini kita dapat menggunakan aplikasi ini untuk membuat UML, diagram Computer N
 
 2. Pencil
 
-![pencil](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-02/image/pencil.png)
+![pencil](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-02/Image/pencil.png)
 
 Pencil merupakan salah satu software non-cloud untuk menggambar yang awalnya digunakan untuk membuat gambar di desktop dan mobile, tapi Pencil ini juga dapat digunakan untuk membuat flowchart serta diagram lain.
 
