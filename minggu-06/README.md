@@ -1,0 +1,1 @@
+# Pertemuan ke-6      Praktikum Teknologi Cloud

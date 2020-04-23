@@ -8,6 +8,7 @@ Sebelum memulai menggunakan Heroku CLI, kita harus mendownloadnya terlebih dahul
 
 Langkah - langkah untuk penggunaan awal dari Heroku CLI tersebut yaitu :
 1. Pada GUI Bash, ketikan heroku login
+
 ![12](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-03/Image/12.png)
 
 2. Nantinya kita akan diminta untuk Login akun Heroku pada tab browser yang muncul
@@ -50,6 +51,7 @@ Langkah - langkah untuk penggunaan awal dari Heroku CLI tersebut yaitu :
 ![26](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-03/Image/26.png)
 
 - Kemudian untuk run localhostnya, (untuk versi windows) dapat dengan menggunakan perintah "heroku local web -f Procfile.windows"
+
 ![27](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-03/Image/27.png)
 - Setelah itu kita dapat mengakses localhost dari app heroku python tersebut dengan browser pada alamat [http://localhost:5000](http://localhost:5000)
 
@@ -63,6 +65,7 @@ Langkah - langkah untuk penggunaan awal dari Heroku CLI tersebut yaitu :
 ![29](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-03/Image/29.png)
 
 - Dan pada saat ditest tampilan di localhostnya dengan menggunakan perintah heroku local, maka akan menampilkan tampilan sebagai berikut
+
 ![52](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-03/Image/52.png)
 ![30](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-03/Image/30.png)
 
@@ -72,5 +75,6 @@ Langkah - langkah untuk penggunaan awal dari Heroku CLI tersebut yaitu :
 ![32](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-03/Image/32.png)
 
 - Kemudian pada saat di test pada app web heroku (quiet-ridge-25026.herokuapp.com), maka akan menampilkan tampilan yang sama seperti pada di localhost sebelumnya
+
 ![53](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-03/Image/53.png)
 ![33](https://github.com/amharnh13/tekn-cloud-computing/blob/master/minggu-03/Image/33.png)
